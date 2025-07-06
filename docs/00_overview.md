@@ -6,3 +6,7 @@ The ultrasonic sensor detects the presence of a hand or object near the lid by m
 
 This project promotes **smart hygiene practices**, reduces the risk of germ transmission, and is ideal for places like homes, hospitals, offices, and public areas. The system is **cost-effective, easy to build**, and can be expanded further by adding features like IoT connectivity or garbage level monitoring.
 
+---
+
+### 📽️ Demo Video  
+[▶️ Click here to watch the demo video](demo/outputvideo)
