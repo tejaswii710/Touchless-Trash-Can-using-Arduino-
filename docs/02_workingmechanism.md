@@ -1,4 +1,4 @@
-# 03_workingmechanism
+# workingmechanism
 
 
 1. The **ultrasonic sensor** emits pulses and measures the echo time.
