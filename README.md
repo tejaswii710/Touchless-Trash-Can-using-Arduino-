@@ -5,13 +5,10 @@ The Smart Dustbin is an automatic waste bin system designed to promote contactle
 # Table of Contents
 
 - [Overview](docs/00_overview.md)
-- [Block Diagram](#block-diagram)
-- [Workflow](#workflow)
 - [Components Required](docs/01_components.md)
-- [Code Upload Instructions](#code-upload-instructions)
 - [Working Mechanism](docs/02_workingmechanism.md)
-- [Screenshots](#screenshots)
 - [Code](code.md)
-- [Status](#status)
+- [Result](images/result.png)
+- [Sample image](images/image.png)
 
 ---
